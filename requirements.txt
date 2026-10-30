@@ -1,0 +1,16 @@
+pyTelegramBotAPI
+flask
+psutil
+requests
+python-dotenv
+beautifulsoup4
+Pillow
+opencv-python
+PyYAML
+python-dateutil
+pandas
+numpy
+SQLAlchemy
+Django
+pycryptodome
+tgcrypto
